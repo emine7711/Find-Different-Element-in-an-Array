@@ -1,0 +1,14 @@
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.exe.config
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.exe
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.pdb
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.exe
+C:\Users\Wissen\source\repos\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.pdb
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.exe.config
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.exe
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\bin\Debug\QuestionOfEST.pdb
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.exe
+C:\Users\EMİNE\Desktop\QuestionOfEST\QuestionOfEST\QuestionOfEST\obj\Debug\QuestionOfEST.pdb
